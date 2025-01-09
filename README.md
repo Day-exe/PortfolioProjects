@@ -9,6 +9,8 @@ Collection of my portfolio projects for my Internship class in the Oracle ITOA P
   ## Project 2: [Recipe Converter](https://github.com/Day-exe/PortfolioProjects/tree/main/src)
   A project comissioned by my counselor, Ms. Howard. The goal is to make a program that can break recipies down into smaller batches.
 
+# Note:
+### Due to unfortunate circumstances, I had to abandon the original repository for this. You can find it and the commit messages that show my progress up until this point [here](https://github.com/Day-exe/Portfolio-Projects)
 
 # About The Author
 All projects written by Day (no, that is not my real name).\
